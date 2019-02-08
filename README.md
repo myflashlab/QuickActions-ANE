@@ -50,7 +50,7 @@ Android side:
 Embedding the ANE:
 -->
   <extensions>
-	<extensionID>com.myflashlab.air.extensions.deviceInfo</extensionID>
+	<extensionID>com.myflashlab.air.extensions.quickActions</extensionID>
 	
 	<!-- dependency ANEs https://github.com/myflashlab/common-dependencies-ANE -->
 	<extensionID>com.myflashlab.air.extensions.dependency.overrideAir</extensionID>
